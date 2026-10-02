@@ -1,0 +1,2 @@
+.admin-input { margin-top: .5rem; display: block; width: 100%; border: 2px solid rgba(43, 27, 18, .3); background: var(--paper); padding: .75rem; font-family: Mukta, system-ui, sans-serif; font-weight: 400; outline: none; }
+.admin-input:focus { border-color: var(--brand-primary); }
